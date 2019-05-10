@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>383837998627-k8efhjpshikp969qp6ikgf795ogt2tav.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.383837998627-k8efhjpshikp969qp6ikgf795ogt2tav</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNX7I37KsQUrabU5VXJ7DaJNZhI6g1cdE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>383837998627</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Dev4App.MovialQuiz</string>
+	<key>PROJECT_ID</key>
+	<string>movialquiz-3e100</string>
+	<key>STORAGE_BUCKET</key>
+	<string>movialquiz-3e100.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:383837998627:ios:29f6b4d45cf2a2cc</string>
+	<key>DATABASE_URL</key>
+	<string>https://movialquiz-3e100.firebaseio.com</string>
+</dict>
+</plist>
